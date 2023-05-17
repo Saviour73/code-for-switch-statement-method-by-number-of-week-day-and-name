@@ -1,0 +1,1 @@
+# Switch statement method by number of week day and name
