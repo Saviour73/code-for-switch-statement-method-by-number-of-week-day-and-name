@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Switch_statement_method_by_number_of_week_day_and_name</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\user\Desktop\visual studio sav\switch statement method.cs" Link="switch statement method.cs" />
+  </ItemGroup>
+
+</Project>
